@@ -4,7 +4,7 @@
 
 - git clone https://github.com/kodok101/tot
 
-- chmod +m chmod tot
+- chmod +m tot
 
 - ./tot
 
